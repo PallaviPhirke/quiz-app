@@ -1,2 +1,4 @@
 # quiz-app
 A simple and interactive quiz application
+<br>
+Author-Pallavi
